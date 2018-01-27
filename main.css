@@ -1,0 +1,109 @@
+
+
+.header{
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: rgb(190, 207, 228);
+    background: rgb(42, 133, 253);
+}
+.nav{
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: rgb(190, 207, 228);
+    background: rgb(42, 133, 253);
+
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%; 
+    background-color: 'none';
+    color: black;
+    text-align: center;
+    
+ }
+ .wrap:after{clear: both;
+display: block}
+ 
+ .midtext{
+    padding: 20px;
+    clear: both;
+    text-align: center;
+    height: 20px;
+    color: white;
+    margin-bottom: 20px;
+    background: rgb(65, 142, 241);
+
+    
+ }
+.contleft{
+    float: left;
+    margin-bottom: 10px;
+    width: 60%;
+    height: 350px;
+
+}
+.contright{
+    float: right;
+    margin-bottom: 10px;
+    /*background: rgb(143, 137, 156);*/
+    width: 35%;
+    height: 350px;
+
+}
+.section{
+    text-align: center;
+    background: rgb(16, 60, 117);
+    color: white;
+    height: 350px;
+    
+    
+}
+.article{
+    text-align: center;
+    background: rgb(25, 82, 156);
+    color: white;
+    margin: 30px 15px 10px 15px;
+    height: 236px;
+    
+    
+}
+
+
+.til{
+    text-align: center;
+    background: rgb(56, 103, 165);
+    color: white;
+    clear: both;
+    height: 50px;
+    
+    
+}
+.undertil{
+    text-align: center;
+    background: rgb(46, 118, 201);
+    color: white;
+    height: 50px;
+    clear: both;
+    
+    
+}
+.art{
+    margin-top: 70px;
+    margin-right: 10px;
+    color: white;
+    margin-left: 10px
+    
+    
+}
+.aside{
+    text-align: center;
+    background: rgb(16, 60, 117);
+    color: white;
+    height: 350px;
+    
+    
+}
